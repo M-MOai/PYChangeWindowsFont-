@@ -13,13 +13,13 @@ Es un programa sencillo escrito en lenguaje python que permite crear un archivo 
 - Rápido
 - Intuitivo
 - Eficaz
-## Features
+## Características
 
 - Uso del framework Tkinter para python
 - Optimizado para velocidad
 - Monothreading-Security
 
-## Installation
+## Instalación
 
 PYChangeWindowsFont requiere tener instalado python 3.9.
 
@@ -38,7 +38,7 @@ Comming Soon...
 
 ## Plugins
 
-## License
+## LICENCIA
 
 MIT
 
